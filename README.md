@@ -1,2 +1,2 @@
 # hotelbookingwebpage
-It's a non-working webpage of hotel room booking
+It's a dummy webpage of hotel room booking
